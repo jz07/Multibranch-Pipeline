@@ -24,8 +24,8 @@ def get_full_name(firstname, lastname):
     """ Return the full name in the format firstname, lastname
 
     Arguments:
-    firstname: First name e.g. John
-    lastname: Last name e.g. Doe
+    firstname: First name e.g. Ulti
+    lastname: Last name e.g. Khopadi!
     """
     return lastname + ", " + firstname
 
