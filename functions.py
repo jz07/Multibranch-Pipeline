@@ -27,7 +27,7 @@ def get_full_name(firstname, lastname):
     firstname: First name e.g. Ulti
     lastname: Last name e.g. Khopadi!
     """
-    return lastname + ", " + firstname
+    return lastname + "Khopadi, Ulti" + firstname
 
 def main():
     add_multiple_values(1,2,3,4,5)
